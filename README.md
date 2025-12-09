@@ -12,22 +12,25 @@ Natural Language Processing (NLP) uses algorithms to understand and generate hum
 
 By completing this Specialization, you will be able to build applications such as question-answering systems, sentiment analysis, machine translation, text summarization, and chatbots, using both classical and modern deep learning techniques.
 
-Instructors:
+**Instructors**:
 	•	Younes Bensouda Mourri – AI Instructor at Stanford, co-creator of Deep Learning Specialization
 	•	Łukasz Kaiser – Google Brain researcher, co-author of the Transformer architecture and the Trax/Tensor2Tensor libraries
 
-In that: 
-Courses 1–2: Core NLP Techniques
+**Content**:
+**Courses 1–2: Core NLP Techniques**
+
 	•	Logistic regression, Naive Bayes, word vectors
 	•	Sentiment analysis, word analogy, language translation
 	•	Locality Sensitive Hashing (LSH)
 
-Course 3: Traditional NLP Methods
+**Course 3: Traditional NLP Methods**
+
 	•	Dynamic programming
 	•	Hidden Markov Models
 	•	Autocorrect, autocomplete, part-of-speech tagging
 
-Courses 4–5: Deep Learning for NLP
+**Courses 4–5: Deep Learning for NLP**
+
 	•	Neural networks, LSTMs, GRUs, Siamese networks
 	•	Advanced sentiment analysis, text generation
 	•	Named entity recognition, duplicate question detection
