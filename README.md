@@ -35,7 +35,8 @@ By completing this Specialization, you will be able to build applications such a
 	•	Advanced sentiment analysis, text generation
 	•	Named entity recognition, duplicate question detection
 
-Course 6: Transformer-based NLP
+**Course 6: Transformer-based NLP**:
+
 	•	Encoder–decoder, self-attention, causal models
 	•	Machine translation, summarization, question-answering, chatbots
 	•	Models covered: T5, BERT, Transformer, Reformer, and more
